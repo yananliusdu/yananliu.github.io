@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Dr."
+title                    : "Yanan Liu"
 title_separator          : "-"
-name                     : &name "Yanan Liu"
+name                     : &name "Dr. Yanan Liu"
 description              : &description "PhD in Robotics and Autonomous Systems at Bristol Robotics Laboratory, the University of Bristol"
 url                      : https://yananliusdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanan Liu"
+  name             : "Dr. Yanan Liu"
   avatar           : "profile.jpg"
-  bio              : "PhD student at the Bristol Robotics Laboratory, University of Bristol"
+  bio              : "PhD in Robotics and Autonomous Systems from Bristol Robotics Laboratory, University of Bristol"
   location         : "Bristol, UK"
   employer         :
   pubmed           : 
