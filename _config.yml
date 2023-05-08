@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Yanan Liu"
+title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Yanan Liu"
-description              : &description "PhD student at Bristol Robotics Laboratory, the University of Bristol"
+description              : &description "PhD in Robotics and Autonomous Systems at Bristol Robotics Laboratory, the University of Bristol"
 url                      : https://yananliusdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yananliusdu/yananliusdu.github.io"
